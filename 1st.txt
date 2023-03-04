@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 Gi edit sa staging para ma test sa client
-=======
+
 hakdog
 1st edit ni developer
->>>>>>> develop
+
