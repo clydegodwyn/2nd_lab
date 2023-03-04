@@ -1,2 +1,1 @@
-hakdog
-1st edit ni developer
+Gi edit sa staging para ma test sa client
